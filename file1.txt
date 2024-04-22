@@ -1,1 +1,1 @@
-this is text file 1.
+This is an updated content for file 1.
